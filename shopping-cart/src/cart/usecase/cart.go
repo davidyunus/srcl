@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/srcl/shopping-cart/domain"
+import "github.com/srcl/shopping-cart/src/domain"
 
 type cartUsecase struct {
 	cartRepository domain.CartRepository

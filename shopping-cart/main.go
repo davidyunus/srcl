@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/srcl/shopping-cart/domain"
+	"github.com/srcl/shopping-cart/src/domain"
 
 	cartrepo "github.com/srcl/shopping-cart/src/cart/repository"
 

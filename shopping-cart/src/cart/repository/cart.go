@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/srcl/shopping-cart/domain"
+	"github.com/srcl/shopping-cart/src/domain"
 )
 
 type cartRepository struct {
